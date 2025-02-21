@@ -15,7 +15,7 @@ This project involves cleaning and transforming coffee sales data in Excel, util
 
 ## Dashboard Preview
 ![Coffee Sales Dashboard](image.png)
-
+https://github.com/Joshua-K1234/Coffee-Sales-Analysis-Dashboard-Excel-/blob/main/Dashboard.JPG
 ---
 **Tools Used:** Excel (Pivot Tables, XLOOKUP, INDEX/MATCH)  
 **Status:** Completed  
