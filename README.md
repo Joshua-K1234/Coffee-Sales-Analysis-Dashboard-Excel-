@@ -14,8 +14,8 @@ This project involves cleaning and transforming coffee sales data in Excel, util
     - **Sales Over Time**: A line chart comparing four coffee types.
 
 ## Dashboard Preview
-![Coffee Sales Dashboard](image.png)
-https://github.com/Joshua-K1234/Coffee-Sales-Analysis-Dashboard-Excel-/blob/main/Dashboard.JPG
+<img src="https://github.com/Joshua-K1234/Coffee-Sales-Analysis-Dashboard-Excel-/blob/main/Dashboard.JPG" alt="Bike Sales Dashboard" width="(400/9)16" height="400"/>
+
 ---
 **Tools Used:** Excel (Pivot Tables, XLOOKUP, INDEX/MATCH)  
 **Status:** Completed  
