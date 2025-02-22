@@ -12,6 +12,7 @@ This project involves cleaning and transforming coffee sales data in Excel, util
     - **Sales by Country**: A geographical breakdown of sales.
     - **Top 5 Customers**: Identifying key buyers.
     - **Sales Over Time**: A line chart comparing four coffee types.
+- **Macros + VBA**: Used macros and VBA to create a button that clears all slicer filters.
 
 ## Dashboard Preview
 <img src="https://github.com/Joshua-K1234/Coffee-Sales-Analysis-Dashboard-Excel-/blob/main/Dashboard.JPG" alt="Bike Sales Dashboard" width="(400/9)16" height="400"/>
