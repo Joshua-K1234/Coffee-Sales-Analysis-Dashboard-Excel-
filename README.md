@@ -1,7 +1,7 @@
 # Coffee-Sales-Analysis-Dashboard-Excel-
 
 ## Overview
-This project involves cleaning and transforming coffee sales data in Excel, utilizing advanced lookup functions and pivot tables to build an interactive **Coffee Sales Dashboard**.
+This project involves cleaning and transforming coffee sales data in Excel, utilizing advanced lookup functions, pivot tables, macros, and VBA to build an interactive Coffee Sales Dashboard.
 
 ## Key Features
 - **Data Cleaning & Transformation**: Standardized raw data and filled missing fields using **XLOOKUP** and **INDEX/MATCH**.
